@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://mclenaro.github.io/sitemap/sitemap.txt
